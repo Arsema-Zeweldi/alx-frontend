@@ -442,8 +442,7 @@ text-align: var(--section-footer-align);
 .nav .nav-link:hover {
   color: var(--nav-item-link-hover);
 }
-.row,
-ul {
+.row ul {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -514,8 +513,7 @@ ul {
   color: var(--text-color);
 }
 
-.footer,
-ul {
+.footer ul {
     text-align: right;
 }
 .footer {
