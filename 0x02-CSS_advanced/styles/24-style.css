@@ -487,7 +487,7 @@
   .card-services a:hover {
     color: var(--color-white);
     background-color: var(--color-primary);
-    text-decoration-style: none;
+    text-decoration: none;
   }
   :root {
     --color-primary: #d73953;
