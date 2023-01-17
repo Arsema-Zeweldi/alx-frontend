@@ -474,7 +474,7 @@
     display: block;
   }
   .social-link > svg {
-    color: var(--text-color);
+    fill: var(--text-color);
   }
   :root {
     --color-primary: #d73953;
