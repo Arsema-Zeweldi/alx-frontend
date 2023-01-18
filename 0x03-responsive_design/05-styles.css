@@ -352,7 +352,7 @@
   }
 
   .header .menu-icon .navicon::after {
-    content: "";
+    top: -.7rem;
   }
   
   /* Footer
